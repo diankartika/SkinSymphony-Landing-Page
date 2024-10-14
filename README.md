@@ -8,6 +8,6 @@ Key Features:
 - HTML, CSS, JavaScript: The project showcases fundamental frontend development skills, including semantic HTML structure, CSS styling, and basic JavaScript interactivity.
 
 Technologies Used:
-HTML5
-CSS3
-JavaScript
+- HTML5
+- CSS3
+- JavaScript
